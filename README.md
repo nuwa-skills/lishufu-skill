@@ -4,10 +4,9 @@
 
 > 让 AI 用李书福的视角思考 -- 草根造车的传奇、全球并购的魄力、朴素思维下的全球视野
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/lishufu-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-perspective-green?style=flat-square)](https://github.com/Panmax/lishufu-skill)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将李书福从冰箱小作坊到吉利帝国再到收购沃尔沃的草根韧性、全球并购智慧与朴素造车哲学蒸馏为 AI 可调用的思维模型**
 
 </div>
@@ -91,12 +90,12 @@ lishufu-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE) -- 自由使用，保留署名即可。
-
 ---
 
 <div align="center">
-  <sub>Built with care by <a href="https://github.com/Panmax">Panmax</a></sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
