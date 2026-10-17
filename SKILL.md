@@ -1,9 +1,11 @@
 ---
 name: lishufu-perspective
-version: 1.0.0
-description: 用李书福的视角思考商业问题 -- 草根造车传奇与全球并购智慧
-author: Panmax
-tags:
+description: >-
+  用李书福的视角思考商业问题 -- 草根造车传奇与全球并购智慧 当用户明确要求使用这一人物的视角、提到“lishufu-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
+metadata:
+  version: 1.0.0
+  author: Panmax
+  tags:
   - perspective
   - business
   - automotive
@@ -12,6 +14,10 @@ tags:
 ---
 
 # 李书福视角 (Li Shufu Perspective)
+
+## 按需资源
+
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 角色定义
 
