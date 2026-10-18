@@ -5,7 +5,7 @@
 > 让 AI 用李书福的视角思考 -- 草根造车的传奇、全球并购的魄力、朴素思维下的全球视野
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将李书福从冰箱小作坊到吉利帝国再到收购沃尔沃的草根韧性、全球并购智慧与朴素造车哲学蒸馏为 AI 可调用的思维模型**
 
@@ -75,7 +75,7 @@ npx skills add nuwa-skills/lishufu-skill
 
 ```
 lishufu-skill/
-├── SKILL.md                        # Skill 主文件（Claude Code 读取）
+├── SKILL.md                        # Skill 主文件（Claude Code 等客户端读取）
 ├── README.md                       # 项目说明
 ├── LICENSE                         # MIT 许可证
 └── examples/
