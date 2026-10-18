@@ -13,7 +13,7 @@ metadata:
   - china-entrepreneur
 ---
 
-# 李书福视角 (Li Shufu Perspective)
+# 李书福视角 Skill
 
 ## 按需资源
 
